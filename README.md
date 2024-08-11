@@ -1,0 +1,3 @@
+echo # PrivacyPolicy
+# PrivacyPolicy
+# PrivacyPolicy
